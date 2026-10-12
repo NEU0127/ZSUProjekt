@@ -4,9 +4,9 @@ Tento repozitář vznikl k řešení semestrálního projektu předmětu Základ
 
 ## 📂 Struktura projektu
 
-Projekt je rozdělen na dvě části.
-1. **Část 1: Exploratorní a shluková analýza**
-1. **Část 2: Klasifikace**
+Projekt je rozdělen na dvě části, každé bude věnován samostatný jupyter notebook.
+**Část 1: Exploratorní a shluková analýza**
+**Část 2: Klasifikace**
 
 ## 📊 Použitá data
 
